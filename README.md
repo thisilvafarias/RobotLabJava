@@ -1,4 +1,5 @@
 # RobotLabJava
+![screen shot 2018-08-17 at 12 21 03](https://user-images.githubusercontent.com/38040414/44263794-382a2100-a218-11e8-9d98-dc8eca4e6834.png)
 
 My code does the following :\
 Run three robots in the window, where which one has a direfferent behaviour.
